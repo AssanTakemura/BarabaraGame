@@ -117,15 +117,15 @@
                                 <rect key="frame" x="0.0" y="313" width="414" height="12"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="tail.png" translatesAutoresizingMaskIntoConstraints="NO" id="iKh-6r-Aer">
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="bou3.png" translatesAutoresizingMaskIntoConstraints="NO" id="iKh-6r-Aer">
                                 <rect key="frame" x="191" y="327" width="33" height="75"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="tail.png" translatesAutoresizingMaskIntoConstraints="NO" id="zHn-ex-t7N">
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="bou2.png" translatesAutoresizingMaskIntoConstraints="NO" id="zHn-ex-t7N">
                                 <rect key="frame" x="191" y="238" width="33" height="75"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="tail.png" translatesAutoresizingMaskIntoConstraints="NO" id="eFO-qu-nRI">
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="bou1.png" translatesAutoresizingMaskIntoConstraints="NO" id="eFO-qu-nRI">
                                 <rect key="frame" x="191" y="149" width="33" height="75"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
@@ -229,6 +229,8 @@
     </scenes>
     <resources>
         <image name="bar.png" width="546" height="6"/>
-        <image name="tail.png" width="37" height="37"/>
+        <image name="bou1.png" width="106" height="94"/>
+        <image name="bou2.png" width="104" height="84"/>
+        <image name="bou3.png" width="86" height="66"/>
     </resources>
 </document>
