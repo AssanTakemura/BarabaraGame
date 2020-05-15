@@ -72,10 +72,10 @@ class GameViewController: UIViewController {
             defaults.set(highScore1, forKey: "score2")
             defaults.set(highScore2, forKey: "score3")
         } else if score > highScore2{
-            defaults.set(highScore1, forKey: "score2")
+            defaults.set(score, forKey: "score2")
             defaults.set(highScore2, forKey: "score3")
         } else if score > highScore3{
-            defaults.set(highScore2, forKey: "score3")
+            defaults.set(score, forKey: "score3")
         }
         
         defaults.synchronize()
