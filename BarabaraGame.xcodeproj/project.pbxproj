@@ -21,7 +21,7 @@
 		17758E29246D188200862BF5 /* RankingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17758E28246D188200862BF5 /* RankingViewController.swift */; };
 		17758E2D246D2F7300862BF5 /* bou3.png in Resources */ = {isa = PBXBuildFile; fileRef = 17758E2A246D2F7300862BF5 /* bou3.png */; };
 		17758E2F246D2F7300862BF5 /* bou1.png in Resources */ = {isa = PBXBuildFile; fileRef = 17758E2C246D2F7300862BF5 /* bou1.png */; };
-		17758E31246D2FC600862BF5 /* bou2.png in Resources */ = {isa = PBXBuildFile; fileRef = 17758E30246D2FC600862BF5 /* bou2.png */; };
+		17758F80246EA09D00862BF5 /* bou2.png in Resources */ = {isa = PBXBuildFile; fileRef = 17758F7F246EA09D00862BF5 /* bou2.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -62,7 +62,7 @@
 		17758E28246D188200862BF5 /* RankingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RankingViewController.swift; sourceTree = "<group>"; };
 		17758E2A246D2F7300862BF5 /* bou3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bou3.png; sourceTree = "<group>"; };
 		17758E2C246D2F7300862BF5 /* bou1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bou1.png; sourceTree = "<group>"; };
-		17758E30246D2FC600862BF5 /* bou2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = bou2.png; path = ../../../bou2.png; sourceTree = "<group>"; };
+		17758F7F246EA09D00862BF5 /* bou2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bou2.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -114,7 +114,7 @@
 			isa = PBXGroup;
 			children = (
 				17758E2C246D2F7300862BF5 /* bou1.png */,
-				17758E30246D2FC600862BF5 /* bou2.png */,
+				17758F7F246EA09D00862BF5 /* bou2.png */,
 				17758E2A246D2F7300862BF5 /* bou3.png */,
 				17758E23246D174D00862BF5 /* bar.png */,
 				17758E22246D174D00862BF5 /* tail.png */,
@@ -256,7 +256,7 @@
 				17758DFF246D15B700862BF5 /* LaunchScreen.storyboard in Resources */,
 				17758E25246D174D00862BF5 /* bar.png in Resources */,
 				17758E2F246D2F7300862BF5 /* bou1.png in Resources */,
-				17758E31246D2FC600862BF5 /* bou2.png in Resources */,
+				17758F80246EA09D00862BF5 /* bou2.png in Resources */,
 				17758E2D246D2F7300862BF5 /* bou3.png in Resources */,
 				17758E24246D174D00862BF5 /* tail.png in Resources */,
 				17758DFC246D15B700862BF5 /* Assets.xcassets in Resources */,
